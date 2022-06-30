@@ -1,6 +1,6 @@
 ---
-slug: Explore
-id: g3asv34uy6ju
+slug: explore
+id: 9awbr1y6xpk3
 type: challenge
 title: Explore fapolicyd integrity
 teaser: Explore fapolicyd integrity
