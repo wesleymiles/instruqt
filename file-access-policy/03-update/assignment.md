@@ -1,6 +1,6 @@
 ---
-slug: Update
-id: v3ftjsr1o2mn
+slug: update
+id: 48nakfxpdogc
 type: challenge
 title: Update the File Access Policy
 teaser: Update the File Access Policy

@@ -21,8 +21,9 @@ icon: https://storage.googleapis.com/instruqt-frontend/img/tracks/default.png
 tags: []
 owner: rhel
 developers:
-- sboulden@redhat.com
 - myee@redhat.com
+- sboulden@redhat.com
 private: false
 published: true
-checksum: "6921777476644993917"
+maintenance: true
+checksum: "8204058508005680946"
