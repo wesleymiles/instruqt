@@ -22,4 +22,5 @@ developers:
 - nlager@redhat.com
 private: false
 published: true
+show_timer: true
 checksum: "17912760510212919861"
