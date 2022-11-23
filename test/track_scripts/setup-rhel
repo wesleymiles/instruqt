@@ -12,11 +12,14 @@ usermod -aG wheel rhel
 
 echo redhat | passwd --stdin rhel
 
-tee -a /root/sshkey << EOF 
------BEGIN OPENSSH PRIVATE KEY-----
-${SSHKEY}
------END OPENSSH PRIVATE KEY-----
-EOF
+# tee -a /root/sshkey << EOF 
+# -----BEGIN OPENSSH PRIVATE KEY-----
+# ${SSHKEY}
+# -----END OPENSSH PRIVATE KEY-----
+# EOF
+
+printf ${SSHKEY} > /root/sshkey
+printf ${TEST} > /root/sshkey2
 
 chmod 600 /root/sshkey
 timedatectl set-timezone America/Vancouver
