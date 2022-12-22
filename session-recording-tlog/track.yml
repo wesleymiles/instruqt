@@ -1,7 +1,7 @@
 slug: session-recording-tlog
 id: pyfzqfx4ahh4
-title: Configuring Terminal Session Recording
-description: |
+title: Configure terminal session recording
+description: Monitor your systems by recording and reviewing users’ and administrators’ terminal sessions.
   # Goal:
   After completing this scenario, users will be able to enable Terminal
   Session Recording and review recorded sessions.
