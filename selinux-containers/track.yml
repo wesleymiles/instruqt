@@ -1,7 +1,7 @@
 slug: selinux-containers
 id: iasej5fcan4g
-title: Securing containers with SELinux [Udica]
-description: |
+title: Secure containers with SELinux (Udica)
+description: Use Red Hat Enterprise Linux container tools to generate custom SELinux security profiles for a containerized application.
   After completing this scenario, you will be able to run container images and generate SELinux profiles customized
   for your container usecases using Udica
 
